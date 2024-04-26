@@ -1,0 +1,28 @@
+D:\usuarios\salva\source\DATA\bin\Debug\net8.0\DATA.deps.json
+D:\usuarios\salva\source\DATA\bin\Debug\net8.0\DATA.runtimeconfig.json
+D:\usuarios\salva\source\DATA\bin\Debug\net8.0\DATA.dll
+D:\usuarios\salva\source\DATA\bin\Debug\net8.0\DATA.pdb
+D:\usuarios\salva\source\DATA\obj\Debug\net8.0\DATA.csproj.AssemblyReference.cache
+D:\usuarios\salva\source\DATA\obj\Debug\net8.0\DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\usuarios\salva\source\DATA\obj\Debug\net8.0\DATA.AssemblyInfoInputs.cache
+D:\usuarios\salva\source\DATA\obj\Debug\net8.0\DATA.AssemblyInfo.cs
+D:\usuarios\salva\source\DATA\obj\Debug\net8.0\DATA.csproj.CoreCompileInputs.cache
+D:\usuarios\salva\source\DATA\obj\Debug\net8.0\DATA.dll
+D:\usuarios\salva\source\DATA\obj\Debug\net8.0\refint\DATA.dll
+D:\usuarios\salva\source\DATA\obj\Debug\net8.0\DATA.pdb
+D:\usuarios\salva\source\DATA\obj\Debug\net8.0\DATA.genruntimeconfig.cache
+D:\usuarios\salva\source\DATA\obj\Debug\net8.0\ref\DATA.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\DATA\bin\Debug\net8.0\DATA.deps.json
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\DATA\bin\Debug\net8.0\DATA.runtimeconfig.json
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\DATA\bin\Debug\net8.0\DATA.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\DATA\bin\Debug\net8.0\DATA.pdb
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\DATA\obj\Debug\net8.0\DATA.csproj.AssemblyReference.cache
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\DATA\obj\Debug\net8.0\DATA.GeneratedMSBuildEditorConfig.editorconfig
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\DATA\obj\Debug\net8.0\DATA.AssemblyInfoInputs.cache
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\DATA\obj\Debug\net8.0\DATA.AssemblyInfo.cs
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\DATA\obj\Debug\net8.0\DATA.csproj.CoreCompileInputs.cache
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\DATA\obj\Debug\net8.0\DATA.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\DATA\obj\Debug\net8.0\refint\DATA.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\DATA\obj\Debug\net8.0\DATA.pdb
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\DATA\obj\Debug\net8.0\DATA.genruntimeconfig.cache
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\DATA\obj\Debug\net8.0\ref\DATA.dll

@@ -1,0 +1,17 @@
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\LOGICA\bin\Debug\net8.0-windows\LOGICA.deps.json
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\LOGICA\bin\Debug\net8.0-windows\LOGICA.runtimeconfig.json
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\LOGICA\bin\Debug\net8.0-windows\LOGICA.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\LOGICA\bin\Debug\net8.0-windows\LOGICA.pdb
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\LOGICA\bin\Debug\net8.0-windows\DATA.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\LOGICA\bin\Debug\net8.0-windows\DATA.pdb
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\LOGICA\obj\Debug\net8.0-windows\LOGICA.csproj.AssemblyReference.cache
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\LOGICA\obj\Debug\net8.0-windows\LOGICA.GeneratedMSBuildEditorConfig.editorconfig
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\LOGICA\obj\Debug\net8.0-windows\LOGICA.AssemblyInfoInputs.cache
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\LOGICA\obj\Debug\net8.0-windows\LOGICA.AssemblyInfo.cs
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\LOGICA\obj\Debug\net8.0-windows\LOGICA.csproj.CoreCompileInputs.cache
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\LOGICA\obj\Debug\net8.0-windows\LOGICA.csproj.Up2Date
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\LOGICA\obj\Debug\net8.0-windows\LOGICA.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\LOGICA\obj\Debug\net8.0-windows\refint\LOGICA.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\LOGICA\obj\Debug\net8.0-windows\LOGICA.pdb
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\LOGICA\obj\Debug\net8.0-windows\LOGICA.genruntimeconfig.cache
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\LOGICA\obj\Debug\net8.0-windows\ref\LOGICA.dll

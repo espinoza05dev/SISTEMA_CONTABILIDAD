@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="formularios\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formularios\FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formularios\Subformularios\FrmActivosfijos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formularios\Subformularios\FrmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formularios\Subformularios\FrmCuentasCobrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formularios\Subformularios\FrmCuentasContables.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formularios\Subformularios\FrmPagos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formularios\Subformularios\FrmPrestamos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formularios\Subformularios\FrmPresupuestoGasto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formularios\Subformularios\Frmtransacciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

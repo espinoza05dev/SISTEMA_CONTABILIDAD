@@ -1,0 +1,346 @@
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.exe
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.dll.config
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.deps.json
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.runtimeconfig.json
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.pdb
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\EntityFramework.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\DATA.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\LOGICA.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\LOGICA.pdb
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\DATA.pdb
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.csproj.AssemblyReference.cache
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA_CONTABILIDAD.Frmprincipal.resources
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.csproj.GenerateResource.cache
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.GeneratedMSBuildEditorConfig.editorconfig
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.AssemblyInfoInputs.cache
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.AssemblyInfo.cs
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.csproj.CoreCompileInputs.cache
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA-.879E2492.Up2Date
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\refint\SISTEMA-CONTABILIDAD.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.pdb
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.genruntimeconfig.cache
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\ref\SISTEMA-CONTABILIDAD.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Humanizer.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.csproj.AssemblyReference.cache
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA_CONTABILIDAD.formularios.FrmPrincipal.resources
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA_CONTABILIDAD.formularios.Subformularios.FrmClientes.resources
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA_CONTABILIDAD.Properties.Resources.resources
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.csproj.GenerateResource.cache
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.GeneratedMSBuildEditorConfig.editorconfig
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.AssemblyInfoInputs.cache
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.AssemblyInfo.cs
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.csproj.CoreCompileInputs.cache
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\refint\SISTEMA-CONTABILIDAD.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.pdb
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.exe
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.dll.config
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.deps.json
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.runtimeconfig.json
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.pdb
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\EntityFramework.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Data.Sqlite.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\SQLitePCLRaw.batteries_v2.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\SQLitePCLRaw.core.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\DATA.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\LOGICA.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\LOGICA.pdb
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\DATA.pdb
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA-.879E2492.Up2Date
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA-CONTABILIDAD.genruntimeconfig.cache
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\ref\SISTEMA-CONTABILIDAD.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA_CONTABILIDAD.formularios.FrmLogin.resources
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA_CONTABILIDAD.formularios.Subformularios.FrmCuentasContables.resources
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Humanizer.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA_CONTABILIDAD.formularios.Subformularios.FrmActivosfijos.resources
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA_CONTABILIDAD.formularios.Subformularios.FrmCuentasCobrar.resources
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA_CONTABILIDAD.formularios.Subformularios.FrmPagos.resources
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA_CONTABILIDAD.formularios.Subformularios.FrmPrestamos.resources
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA_CONTABILIDAD.formularios.Subformularios.Frmtransacciones.resources
+D:\usuarios\salva\source\SISTEMA DE CONTABILIDAD\SISTEMA-CONTABILIDAD\obj\Debug\net8.0-windows\SISTEMA_CONTABILIDAD.formularios.Subformularios.FrmPresupuestoGasto.resources
