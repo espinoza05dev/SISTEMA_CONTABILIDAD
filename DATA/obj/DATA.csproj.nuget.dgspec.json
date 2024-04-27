@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\usuarios\\salva\\source\\SISTEMA DE CONTABILIDAD\\DATA\\DATA.csproj": {}
+    "D:\\usuarios\\salva\\source\\PROYECTO DESTINADOS A GITHUB\\SISTEMA DE CONTABILIDAD\\DATA\\DATA.csproj": {}
   },
   "projects": {
-    "D:\\usuarios\\salva\\source\\SISTEMA DE CONTABILIDAD\\DATA\\DATA.csproj": {
+    "D:\\usuarios\\salva\\source\\PROYECTO DESTINADOS A GITHUB\\SISTEMA DE CONTABILIDAD\\DATA\\DATA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\usuarios\\salva\\source\\SISTEMA DE CONTABILIDAD\\DATA\\DATA.csproj",
+        "projectUniqueName": "D:\\usuarios\\salva\\source\\PROYECTO DESTINADOS A GITHUB\\SISTEMA DE CONTABILIDAD\\DATA\\DATA.csproj",
         "projectName": "DATA",
-        "projectPath": "D:\\usuarios\\salva\\source\\SISTEMA DE CONTABILIDAD\\DATA\\DATA.csproj",
+        "projectPath": "D:\\usuarios\\salva\\source\\PROYECTO DESTINADOS A GITHUB\\SISTEMA DE CONTABILIDAD\\DATA\\DATA.csproj",
         "packagesPath": "C:\\Users\\salva\\.nuget\\packages\\",
-        "outputPath": "D:\\usuarios\\salva\\source\\SISTEMA DE CONTABILIDAD\\DATA\\obj\\",
+        "outputPath": "D:\\usuarios\\salva\\source\\PROYECTO DESTINADOS A GITHUB\\SISTEMA DE CONTABILIDAD\\DATA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

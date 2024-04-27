@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7ZzElwXkFEXobbW+GQFTRpm+lnuwRKIb6KJMZqiGD8GDz1lqP5CtSKQREChlibtixkQOjzdSSPz7/8x93gnKEw==",
+  "dgSpecHash": "iG9kA5hwGu2CUmWH6J2jp31SuA5UH1Gzmo+XtROdaiISELSdsn25X1LnBdEIBIAvXrYTgWGnFsIJiSLfxsxYLg==",
   "success": true,
-  "projectFilePath": "D:\\usuarios\\salva\\source\\SISTEMA DE CONTABILIDAD\\SISTEMA-CONTABILIDAD\\SISTEMA-CONTABILIDAD.csproj",
+  "projectFilePath": "D:\\usuarios\\salva\\source\\PROYECTO DESTINADOS A GITHUB\\SISTEMA DE CONTABILIDAD\\SISTEMA-CONTABILIDAD\\SISTEMA-CONTABILIDAD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\salva\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\salva\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

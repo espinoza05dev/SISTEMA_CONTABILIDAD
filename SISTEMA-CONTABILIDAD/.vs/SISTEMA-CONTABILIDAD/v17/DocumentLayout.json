@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\usuarios\\salva\\source\\SISTEMA DE CONTABILIDAD\\SISTEMA-CONTABILIDAD\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\usuarios\\salva\\source\\PROYECTO DESTINADOS A GITHUB\\SISTEMA DE CONTABILIDAD\\SISTEMA-CONTABILIDAD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24A9EA9A-203F-4959-AD9E-531B79B08F2D}|SISTEMA-CONTABILIDAD.csproj|d:\\usuarios\\salva\\source\\proyecto destinados a github\\sistema de contabilidad\\sistema-contabilidad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A9EA9A-203F-4959-AD9E-531B79B08F2D}|SISTEMA-CONTABILIDAD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A9EA9A-203F-4959-AD9E-531B79B08F2D}|SISTEMA-CONTABILIDAD.csproj|d:\\usuarios\\salva\\source\\proyecto destinados a github\\sistema de contabilidad\\sistema-contabilidad\\formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24A9EA9A-203F-4959-AD9E-531B79B08F2D}|SISTEMA-CONTABILIDAD.csproj|solutionrelative:formularios\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +27,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\usuarios\\salva\\source\\PROYECTO DESTINADOS A GITHUB\\SISTEMA DE CONTABILIDAD\\SISTEMA-CONTABILIDAD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\usuarios\\salva\\source\\PROYECTO DESTINADOS A GITHUB\\SISTEMA DE CONTABILIDAD\\SISTEMA-CONTABILIDAD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T03:07:30.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmLogin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\usuarios\\salva\\source\\PROYECTO DESTINADOS A GITHUB\\SISTEMA DE CONTABILIDAD\\SISTEMA-CONTABILIDAD\\formularios\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "formularios\\FrmLogin.cs",
+              "ToolTip": "D:\\usuarios\\salva\\source\\PROYECTO DESTINADOS A GITHUB\\SISTEMA DE CONTABILIDAD\\SISTEMA-CONTABILIDAD\\formularios\\FrmLogin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "formularios\\FrmLogin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T03:00:50.783Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

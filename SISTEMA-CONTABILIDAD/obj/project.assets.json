@@ -5021,11 +5021,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\usuarios\\salva\\source\\SISTEMA DE CONTABILIDAD\\SISTEMA-CONTABILIDAD\\SISTEMA-CONTABILIDAD.csproj",
+      "projectUniqueName": "D:\\usuarios\\salva\\source\\PROYECTO DESTINADOS A GITHUB\\SISTEMA DE CONTABILIDAD\\SISTEMA-CONTABILIDAD\\SISTEMA-CONTABILIDAD.csproj",
       "projectName": "SISTEMA-CONTABILIDAD",
-      "projectPath": "D:\\usuarios\\salva\\source\\SISTEMA DE CONTABILIDAD\\SISTEMA-CONTABILIDAD\\SISTEMA-CONTABILIDAD.csproj",
+      "projectPath": "D:\\usuarios\\salva\\source\\PROYECTO DESTINADOS A GITHUB\\SISTEMA DE CONTABILIDAD\\SISTEMA-CONTABILIDAD\\SISTEMA-CONTABILIDAD.csproj",
       "packagesPath": "C:\\Users\\salva\\.nuget\\packages\\",
-      "outputPath": "D:\\usuarios\\salva\\source\\SISTEMA DE CONTABILIDAD\\SISTEMA-CONTABILIDAD\\obj\\",
+      "outputPath": "D:\\usuarios\\salva\\source\\PROYECTO DESTINADOS A GITHUB\\SISTEMA DE CONTABILIDAD\\SISTEMA-CONTABILIDAD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5046,8 +5046,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\usuarios\\salva\\source\\SISTEMA DE CONTABILIDAD\\LOGICA\\LOGICA.csproj": {
-              "projectPath": "D:\\usuarios\\salva\\source\\SISTEMA DE CONTABILIDAD\\LOGICA\\LOGICA.csproj"
+            "D:\\usuarios\\salva\\source\\PROYECTO DESTINADOS A GITHUB\\SISTEMA DE CONTABILIDAD\\LOGICA\\LOGICA.csproj": {
+              "projectPath": "D:\\usuarios\\salva\\source\\PROYECTO DESTINADOS A GITHUB\\SISTEMA DE CONTABILIDAD\\LOGICA\\LOGICA.csproj"
             }
           }
         }

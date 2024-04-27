@@ -11,8 +11,7 @@ namespace SISTEMA_CONTABILIDAD
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new formularios.FrmPrincipal());
-            //Application.Run(new formularios.FrmLogin());
+            Application.Run(new formularios.FrmLogin());
         }
     }
 }

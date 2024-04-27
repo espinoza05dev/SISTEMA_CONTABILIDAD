@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ynYO+0iYO1XYXI/+OGgWQTMxnY6++4g60qfHayU6xNl0aawtawKh/NJwlCKsjH6AvEPEGxDloNiH83XsGD8YGQ==",
+  "dgSpecHash": "MWLMjV5shYmIpJ9VCbJuZ+N3Yz/PJAyM1+1On6qqL1nZhWCP+Ltd3Qn9214o6r55pLPUNlbRcqdrc+pR461MwQ==",
   "success": true,
-  "projectFilePath": "D:\\usuarios\\salva\\source\\SISTEMA DE CONTABILIDAD\\LOGICA\\LOGICA.csproj",
+  "projectFilePath": "D:\\usuarios\\salva\\source\\PROYECTO DESTINADOS A GITHUB\\SISTEMA DE CONTABILIDAD\\LOGICA\\LOGICA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\salva\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\salva\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
