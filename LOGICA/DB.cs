@@ -27,7 +27,7 @@ namespace LOGICA
                     db.Clientes.Add(d);
                     db.SaveChanges();
                     res++;
-                     
+                    
                 }
             }
             else if (ntable == 2){
