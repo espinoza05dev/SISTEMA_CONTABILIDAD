@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\S4LV4\\source\\PROYECTO_DESTINADOS_A_GITHUB\\SISTEMA DE CONTABILIDAD\\SISTEMA-CONTABILIDAD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{589D57A0-0C69-4EF3-B95A-3B86F1AF013F}|..\\LOGICA\\LOGICA.csproj|c:\\users\\s4lv4\\source\\proyecto_destinados_a_github\\sistema de contabilidad\\logica\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A9EA9A-203F-4959-AD9E-531B79B08F2D}|SISTEMA-CONTABILIDAD.csproj|c:\\users\\s4lv4\\source\\proyecto_destinados_a_github\\sistema de contabilidad\\sistema-contabilidad\\formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24A9EA9A-203F-4959-AD9E-531B79B08F2D}|SISTEMA-CONTABILIDAD.csproj|solutionrelative:formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24A9EA9A-203F-4959-AD9E-531B79B08F2D}|SISTEMA-CONTABILIDAD.csproj|C:\\Users\\S4LV4\\source\\PROYECTO_DESTINADOS_A_GITHUB\\SISTEMA DE CONTABILIDAD\\SISTEMA-CONTABILIDAD\\formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24A9EA9A-203F-4959-AD9E-531B79B08F2D}|SISTEMA-CONTABILIDAD.csproj|solutionrelative:formularios\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\S4LV4\\source\\PROYECTO_DESTINADOS_A_GITHUB\\SISTEMA DE CONTABILIDAD\\LOGICA\\DB.cs",
+              "RelativeDocumentMoniker": "..\\LOGICA\\DB.cs",
+              "ToolTip": "C:\\Users\\S4LV4\\source\\PROYECTO_DESTINADOS_A_GITHUB\\SISTEMA DE CONTABILIDAD\\LOGICA\\DB.cs",
+              "RelativeToolTip": "..\\LOGICA\\DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:28:22.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\S4LV4\\source\\PROYECTO_DESTINADOS_A_GITHUB\\SISTEMA DE CONTABILIDAD\\SISTEMA-CONTABILIDAD\\formularios\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "formularios\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\S4LV4\\source\\PROYECTO_DESTINADOS_A_GITHUB\\SISTEMA DE CONTABILIDAD\\SISTEMA-CONTABILIDAD\\formularios\\FrmPrincipal.cs",
+              "RelativeToolTip": "formularios\\FrmPrincipal.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAvwA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T17:19:25.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\S4LV4\\source\\PROYECTO_DESTINADOS_A_GITHUB\\SISTEMA DE CONTABILIDAD\\SISTEMA-CONTABILIDAD\\formularios\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "formularios\\FrmPrincipal.cs",
+              "ToolTip": "D:\\usuarios\\salva\\source\\PROYECTO DESTINADOS A GITHUB\\SISTEMA DE CONTABILIDAD\\SISTEMA-CONTABILIDAD\\formularios\\FrmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T17:17:56.139Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
